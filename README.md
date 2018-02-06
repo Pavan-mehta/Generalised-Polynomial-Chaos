@@ -1,7 +1,7 @@
 # Generalised-Polynomial-Chaos
 Non Intrusive Generalised Polynomial Chaos
 
-This is a Fortran 90 code which can be complied in any standard Fortran complier such a gfortran (Linux - my personal favrate), NAG or Siverfrost
+This is a Fortran 90 code which can be complied in any standard Fortran complier such a gfortran (my personal favourite), NAG or Siverfrost
 
 This code is for an univariate non - intrusive Generalised Polynomial Choas Technique, also known as Stoachastic Collocation Method 
 
@@ -18,6 +18,6 @@ Constructive critisim always welcome
 
 Author: Pavan Mehta
 
-Linkedin: www.linkedin.com/in/pavan-mehta
+Linkedin: https://www.linkedin.com/in/pavan-mehta/
 
 Email: mehtapavanp@gmail.com 
