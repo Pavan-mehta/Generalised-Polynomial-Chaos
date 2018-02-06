@@ -4,7 +4,7 @@ program gpc
 !************************************************************************************************************************************************************!
 ! This is a Fortran 90 code which can be complied in any standard Fortran complier such a gfortran (Linux - my personal favrate), NAG or Siverfrost
 !
-! This code is for an univariate non - intrusive Generalised Polynomial Choas Technique, also known as Stoachastic Galerkin Method 
+! This code is for an univariate non - intrusive Generalised Polynomial Choas Technique, also known as Stoachastic Collocation Method 
 !
 ! While this is for an univariate case it can be readily extended to multivariate case. 
 !
@@ -14,7 +14,8 @@ program gpc
 !
 ! My name is Pavan Mehta, I wrote this while my MSc Dissertation at The University of Manchester, UK in summer 2016. Needless to mention validated as well
 !
-! I hope you find it usefull. Please don't hesitate to contact me, I'll try my best to answer your queries. Email: mehtapavanp@gmail.com
+! I hope you find it usefull. Please don't hesitate to contact me, I'll try my best to answer your queries. 
+! Email: mehtapavanp@gmail.com
 !
 ! Constructive critisim always welcome
 !
