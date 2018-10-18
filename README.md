@@ -14,7 +14,6 @@ I'm a Thermo-fluids Engineer not a fulltime programmer. Hence, this code may not
 My name is Pavan Mehta, I wrote this while my MSc Dissertation at The University of Manchester, UK in summer 2016. Needless to mention validated as well
 
 I hope you find it usefull. Please don't hesitate to contact me, I'll try my best to answer your queries. 
-Constructive critisim always welcome
 
 Author: Pavan Mehta
 
